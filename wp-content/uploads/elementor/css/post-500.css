@@ -118,7 +118,7 @@
   > .elementor-widget-wrap
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-image: url("/images/about-us/thinking-man-desk.jpg");
+  background-image: url("../../../../images/about-us/thinking-man-desk.jpg");
   background-position: top;
   border-radius: 12px;
   margin: 0 12px;
@@ -252,7 +252,7 @@ body:not(.rtl)
 .elementor-500
   .elementor-element.elementor-element-3930492
   > .elementor-background-overlay {
-  background-image: url("/images/common/contact-us.jpg");
+  background-image: url("../../../../images/common/contact-us.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
