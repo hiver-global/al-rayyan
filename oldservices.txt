@@ -1,0 +1,195 @@
+<section
+class="elementor-section elementor-top-section elementor-element elementor-element-6a871ac0 elementor-section-boxed elementor-section-height-default elementor-section-height-default"
+data-id="6a871ac0"
+data-element_type="section"
+data-settings='{"background_background":"classic"}'
+>
+<div
+  class="elementor-container elementor-column-gap-default"
+>
+  <div
+    class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-5503c6a5 elementor-invisible"
+    data-id="5503c6a5"
+    data-element_type="column"
+    data-settings='{"animation":"fadeInUp"}'
+  >
+    <div
+      class="elementor-widget-wrap elementor-element-populated"
+    >
+      <div
+        class="elementor-element elementor-element-a3a6002 ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box"
+        data-id="a3a6002"
+        data-element_type="widget"
+        data-widget_type="elementskit-icon-box.default"
+      >
+        <div class="elementor-widget-container">
+          <div class="ekit-wid-con">
+            <!-- link opening -->
+            <!-- end link opening -->
+
+            <div
+              class="elementskit-infobox text-center text- icon-top-align elementor-animation-"
+            >
+              <div
+                class="elementskit-box-header elementor-animation-"
+              >
+                <div class="elementskit-info-box-icon">
+                  <i
+                    aria-hidden="true"
+                    class="elementkit-infobox-icon icon icon-file-2"
+                  ></i>
+                </div>
+              </div>
+              <div class="box-body">
+                <h3 class="elementskit-info-box-title">
+                  AUDITING FINANCIAL STATEMENT
+                </h3>
+                <p>
+                  Quarterly Financial Auditing | Annul Financial Auditing
+                </p>
+                <div
+                  class="box-footer disable_hover_button"
+                >
+                  <div class="btn-wraper">
+                    <a
+                      href="our-services/index.htm"
+                      target="_self"
+                      rel=""
+                      class="elementskit-btn whitespace--normal elementor-animation-"
+                    >
+                      Learn More
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-2ecc886a elementor-invisible"
+    data-id="2ecc886a"
+    data-element_type="column"
+    data-settings='{"animation":"fadeInUp","animation_delay":200}'
+  >
+    <div
+      class="elementor-widget-wrap elementor-element-populated"
+    >
+      <div
+        class="elementor-element elementor-element-6594ed7 ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box"
+        data-id="6594ed7"
+        data-element_type="widget"
+        data-widget_type="elementskit-icon-box.default"
+      >
+        <div class="elementor-widget-container">
+          <div class="ekit-wid-con">
+            <!-- link opening -->
+            <!-- end link opening -->
+
+            <div
+              class="elementskit-infobox text-center text- icon-top-align elementor-animation-"
+            >
+              <div
+                class="elementskit-box-header elementor-animation-"
+              >
+                <div class="elementskit-info-box-icon">
+                  <i
+                    aria-hidden="true"
+                    class="elementkit-infobox-icon icon icon-calculator-1"
+                  ></i>
+                </div>
+              </div>
+              <div class="box-body">
+                <h3 class="elementskit-info-box-title">
+                  ACCOUNTING AND BOOKKEEPING
+                </h3>
+                <p>
+                  <!-- Financial Statement Preparation |  -->
+                  Accounting System Setup &amp; Maintenance | Day Book Entries
+                </p>
+                <div
+                  class="box-footer disable_hover_button"
+                >
+                  <div class="btn-wraper">
+                    <a
+                      href="our-services/index.htm"
+                      target="_self"
+                      rel=""
+                      class="elementskit-btn whitespace--normal elementor-animation-"
+                    >
+                      Learn More
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-6817836c elementor-invisible"
+    data-id="6817836c"
+    data-element_type="column"
+    data-settings='{"animation":"fadeInUp","animation_delay":400}'
+  >
+    <div
+      class="elementor-widget-wrap elementor-element-populated"
+    >
+      <div
+        class="elementor-element elementor-element-4e00481 ekit-equal-height-disable elementor-widget elementor-widget-elementskit-icon-box"
+        data-id="4e00481"
+        data-element_type="widget"
+        data-widget_type="elementskit-icon-box.default"
+      >
+        <div class="elementor-widget-container">
+          <div class="ekit-wid-con">
+            <!-- link opening -->
+            <!-- end link opening -->
+
+            <div
+              class="elementskit-infobox text-center text- icon-top-align elementor-animation-"
+            >
+              <div
+                class="elementskit-box-header elementor-animation-"
+              >
+                <div class="elementskit-info-box-icon">
+                  <i
+                    aria-hidden="true"
+                    class="elementkit-infobox-icon icon icon-brands"
+                  ></i>
+                </div>
+              </div>
+              <div class="box-body">
+                <h3 class="elementskit-info-box-title">
+                  VAT &amp; ZAKAT CONSULTING
+                </h3>
+                <p>
+                  ZAKAT Consulting | VAT Consulting | Withholding Consulting
+                </p>
+                <div
+                  class="box-footer disable_hover_button"
+                >
+                  <div class="btn-wraper">
+                    <a
+                      href="our-services/index.htm"
+                      target="_self"
+                      rel=""
+                      class="elementskit-btn whitespace--normal elementor-animation-"
+                    >
+                      Learn More
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</section>
